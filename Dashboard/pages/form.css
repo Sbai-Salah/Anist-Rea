@@ -1,0 +1,108 @@
+.form-all:before { background: none;}
+.form-all {
+    font-family: Inter, sans-serif;
+}
+.form-all .qq-upload-button, .form-all .form-submit-button, .form-all .form-submit-reset, .form-all .form-submit-print {
+    font-family: Inter, sans-serif;
+}
+.form-all .form-pagebreak-back-container, .form-all .form-pagebreak-next-container {
+    font-family: Inter, sans-serif;
+}
+.form-header-group {
+    font-family: Inter, sans-serif;
+}
+.form-label {
+    font-family: Inter, sans-serif;
+}
+.form-label.form-label-auto {
+    display: block;
+    float: none;
+    text-align: left;
+    width: 100%;
+}
+.form-line {
+    margin-top: 12px;
+    margin-bottom: 12px;
+}
+.form-all {
+    max-width: 752px;
+    width: 100%;
+}
+.form-label.form-label-left, .form-label.form-label-right, .form-label.form-label-left.form-label-auto, .form-label.form-label-right.form-label-auto {
+    width: 230px;
+}
+.form-all {
+    font-size: 16px 
+}
+.form-all .qq-upload-button, .form-all .qq-upload-button, .form-all .form-submit-button, .form-all .form-submit-reset, .form-all .form-submit-print {
+    font-size: 16px 
+}
+.form-all .form-pagebreak-back-container, .form-all .form-pagebreak-next-container {
+    font-size: 16px 
+}
+.supernova .form-all, .form-all {
+    background-color: #fff;
+}
+.form-all {
+    color: #02425b;
+}
+.form-header-group .form-header {
+    color: #02425b;
+}
+.form-header-group .form-subHeader {
+    color: #02425b;
+}
+.form-label-top, .form-label-left, .form-label-right, .form-html, .form-checkbox-item label, .form-radio-item label {
+    color: #02425b;
+}
+.form-sub-label {
+    color: #1c5c75;
+}
+.supernova {
+    background-color: #e3eff4;
+}
+.supernova body {
+    background: transparent;
+}
+.form-textbox, .form-textarea, .form-dropdown, .form-radio-other-input, .form-checkbox-other-input, .form-captcha input, .form-spinner input {
+    background-color: #fff;
+}
+.supernova {
+    background-image: none;
+}
+#stage {
+    background-image: none;
+}
+.form-all {
+    background-image: none;
+}
+.ie-8 .form-all:before {
+    display: none;
+}
+.ie-8 {
+    margin-top: auto;
+    margin-top: initial;
+}
+.form-all {
+    border : 5px solid #00668d !important;
+}
+
+.error {
+    text-align: center;
+      background: #F2DEDE;
+      color: #A94442;
+      padding: 10px;
+      width: 95%;
+      border-radius: 5px;
+      margin: 20px auto;
+}
+   
+.success {
+    text-align: center;
+      background: #D4EDDA;
+      color: #40754C;
+      padding: 10px;
+      width: 95%;
+      border-radius: 5px;
+      margin: 20px auto;
+}
