@@ -1,6 +1,6 @@
 # Anist- Rea | Numérisation des travaux papier des anesthésistes et réanimateurs
 
-![home page]()
+![home page](https://github.com/Sbai-Salah/Anist-Rea/blob/main/screens/homePage.PNG)
 
 ```
 Projet Dev Web 2022
@@ -26,11 +26,11 @@ L'un des plus grands défis en matière de soins de santé est d'être rapide, e
 ## QUELQUES PAGES DU SITE WEB : 
 
 
-![home page]()
-![home page]()
-![home page]()
-![home page]()
-![home page]()
+![home page](https://github.com/Sbai-Salah/Anist-Rea/blob/main/screens/sign%20in.PNG)
+![home page](https://github.com/Sbai-Salah/Anist-Rea/blob/main/screens/signup.PNG)
+![home page](https://github.com/Sbai-Salah/Anist-Rea/blob/main/screens/Profil.PNG)
+![home page](https://github.com/Sbai-Salah/Anist-Rea/blob/main/screens/dash%201.PNG)
+![home page](https://github.com/Sbai-Salah/Anist-Rea/blob/main/screens/addPatient.PNG)
 
 
 ## COMMENT METTRE LE PROJET EN TRAVAIL : 
