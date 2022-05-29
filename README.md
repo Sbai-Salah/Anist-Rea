@@ -37,5 +37,6 @@ L'un des plus grands défis en matière de soins de santé est d'être rapide, e
 
 - [X] telecharger le zip qui contient tous les fichiers. 
 - [X] extrait-le soit dans le dossier `www` ou `htdoc` (bien sur apres avoir lancer le wamp ou le xamp)
+- [X] importer la base de donnees : elle est dans le dossier `Create Data Base`
 - [X] tapper : `localhost/anistrea/`... ET VOILA.
 - [X] Pour la partie login essayer d'utiliser ces info : email : `guestguest@gmail.com` , mot de passe : `password`
